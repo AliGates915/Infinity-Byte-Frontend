@@ -73,7 +73,7 @@ const Navbar = () => {
             to="/"
             className="text-lg font-bold text-[#00897B] hover:text-[#f5f6fa] transition-colors duration-300"
           >
-            Wahid Foods SMC 
+            Infinity Byte.
           </Link>
         </div>
         <div className="space-x-8 flex items-center">

@@ -14,7 +14,7 @@ const Footer = () => {
               className="flex items-center gap-3 font-bold text-3xl text-[#89B9AD] hover:text-[#FFFFFF] transition-colors duration-300"
             >
               <Store className="w-10 h-10 text-[#89B9AD]" />
-              <span>Wahid Foods SMC PVT.Ltd</span>
+              <span>Infinity Byte.</span>
             </Link>
             <p className="text-[#89B9AD] text-base leading-relaxed">
               Your premier destination for quality products and an exceptional shopping experience.
@@ -123,11 +123,11 @@ const Footer = () => {
 
         <div className="border-t border-[#89B9AD]/50 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-[#89B9AD] text-sm">
-            © 2025 Wahid Foods SMC PVT.Ltd. All rights reserved.
+            © 2025 Infinity Byte. All rights reserved.
           </p>
           <p className="text-[#89B9AD] text-sm flex items-center gap-2">
             Made with{' '}
-            <Heart className="w-5 h-5 text-[#89B9AD] animate-pulse" /> by Wahid Foods Team
+            <Heart className="w-5 h-5 text-[#89B9AD] animate-pulse" /> by Infinity Byte. Team
           </p>
         </div>
       </div>
