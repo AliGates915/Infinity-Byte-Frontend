@@ -60,7 +60,7 @@ const Carousel = () => {
             className="text-4xl md:text-5xl font-bold mb-4 text-center animate-pulse"
             style={{ textShadow: "2px 2px 8px rgba(0, 0, 0, 0.9)" }}
           >
-            Welcome to Wahid Foods SMC PVT.Ltd
+            Welcome to Infinity Byte.
           </h1>
           <p className="text-lg md:text-xl mb-8 text-center max-w-2xl">
             Discover the best products with unbeatable deals!
